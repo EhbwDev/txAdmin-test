@@ -4,7 +4,7 @@
         "humanizer_language": "en"
     },
     "restarter": {
-        "start_timeout": "failed to start in time",
+        "start_timeout": "failed to start in time"
         "crash_detected": "crash detected",
         "hang_detected": "hang detected",
         "partial_hang_warn": "Due to a partial hang, this server will restart in 1 minute. Please disconnect now.",
