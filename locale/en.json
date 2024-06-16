@@ -4,7 +4,7 @@
         "humanizer_language": "en"
     },
     "restarter": {
-        "start_timeout": "failed to start in time"
+        "start_timeout": "failed to start in time",
         "crash_detected": "crash detected",
         "hang_detected": "hang detected",
         "partial_hang_warn": "Due to a partial hang, this server will restart in 1 minute. Please disconnect now.",
@@ -23,7 +23,7 @@
             "label_date": "Ban Date",
             "label_author": "Banned by",
             "label_reason": "Ban Reason",
-            "label_id": "Ban ID",
+            "label_id": 1,
             "note_multiple_bans": "Note: you have more than one active ban on your identifiers.",
             "note_diff_license": "Note: the ban above was applied for another <code>license</code>, which means some of your IDs/HWIDs match the ones associated with that ban."
         }
